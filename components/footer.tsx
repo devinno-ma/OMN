@@ -91,7 +91,7 @@ export function Footer() {
               </li>
               <li className="flex items-center gap-2">
                 <span>✉️</span>
-                <span>contact@Oh! My Nails.ma</span>
+                <span>contact@OhMyNails.ma</span>
               </li>
             </ul>
           </div>
