@@ -54,26 +54,6 @@ export function Footer() {
                   Lash Extensions
                 </Link>
               </li>
-              <li>
-                <Link href="/services#makeup" className="hover:text-accent transition-colors">
-                  Makeup
-                </Link>
-              </li>
-              <li>
-                <Link href="/services#spa" className="hover:text-accent transition-colors">
-                  Spa
-                </Link>
-              </li>
-              <li>
-                <Link href="/services#hair" className="hover:text-accent transition-colors">
-                  Hair
-                </Link>
-              </li>
-              <li>
-                <Link href="/services#aesthetic" className="hover:text-accent transition-colors">
-                  Aesthetic
-                </Link>
-              </li>
             </ul>
           </div>
 
